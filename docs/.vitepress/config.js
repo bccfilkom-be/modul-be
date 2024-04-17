@@ -4,7 +4,7 @@ export default {
     title: "Modul Backend",
     description: 'An awesome backend module written by BCC',
     themeConfig: {
-        logo: "/assets/logo.png",
+        logo: "/assets/bcc_logo.png",
         siteTitle: "Backend BCC",
         nav: [
         ],
