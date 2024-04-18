@@ -23,6 +23,9 @@ const golangSidebar = [
             { text: 'Percabangan/Conditional', link: '/notes/golang/percabangan' },
             { text: 'Loop', link: '/notes/golang/loop' },
             { text: 'Array & Slice', link: '/notes/golang/array-slice' },
+            { text: 'Map', link: '/notes/golang/map' },
+            { text: 'Fungsi', link: '/notes/golang/fungsi' },
+            { text: 'Pointer', link: '/notes/golang/pointer' },
         ]
     }
 ];
