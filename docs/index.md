@@ -3,14 +3,14 @@ layout: home
 
 hero:
   name: Modul Backend
-  tagline: Golang, Git, Database, GIN, dan Clean Architecture
+  tagline: Ringkasan materi Golang, Git, Database, GIN, dan Clean Architecture
   actions:
     - theme: brand
       text: Get Started
-      link: /get-started
+      link: https://github.com/bccfilkom-be/modul-be
     - theme: alt
       text: View on GitHub
-      link: https://github.com/
+      link: https://github.com/bccfilkom-be/modul-be
 
 features:
   - icon: 
