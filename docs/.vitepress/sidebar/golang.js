@@ -26,6 +26,7 @@ const golangSidebar = [
             { text: 'Map', link: '/notes/golang/map' },
             { text: 'Fungsi', link: '/notes/golang/fungsi' },
             { text: 'Pointer', link: '/notes/golang/pointer' },
+            { text: 'Struct', link: '/notes/golang/struct' },
         ]
     }
 ];
