@@ -17,5 +17,5 @@ features:
       src: "/assets/golang_logo.svg"
     title: Golang
     details: Ringkasan materi fundamental Golang
-    link: /notes/golang/
+    link: /golang/
 ---

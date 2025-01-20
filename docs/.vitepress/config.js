@@ -12,7 +12,7 @@ export default {
             { icon: "github", link: "https://github.com/bccfilkom-be" }
         ],
         sidebar: {
-            "/notes/golang/": golangSidebar
+            "/golang/": golangSidebar
         },
     }
 }
